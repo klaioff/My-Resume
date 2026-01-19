@@ -61,6 +61,7 @@ To run this project locally:
 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000).
+   or use this link: (https://my-resume-tawny-three.vercel.app).
 
 ---
 
